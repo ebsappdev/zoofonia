@@ -1,0 +1,5 @@
+# Versão do arquivo app-ads.txt
+app-ads.txt version=1
+
+# Informações do editor
+google.com, pub-3605124602916484, DIRECT, f08c47fec0942fa0
